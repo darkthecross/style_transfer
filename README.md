@@ -1,0 +1,1 @@
+Minimal example of image style transfer. I do not like its effects, though. 
